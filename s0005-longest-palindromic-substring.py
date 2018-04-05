@@ -11,6 +11,7 @@ class Solution(object):
             return s[0]
         for i in range(n):
            a = b = i
+           if
         return maxstr
 
     def isPalindrome(self, s):
